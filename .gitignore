@@ -1,0 +1,12 @@
+/vendor/
+nbproject/
+private/
+build/
+.nb-gradle/
+composer.phar
+composer.lock
+.php_cs*
+*~
+*.log
+!.gitignore
+!.editorconfig

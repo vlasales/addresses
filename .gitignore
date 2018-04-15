@@ -1,4 +1,5 @@
 /vendor/
+src/settings.php
 nbproject/
 private/
 build/

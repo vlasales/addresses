@@ -1,9 +1,5 @@
 /vendor/
-src/settings.php
-nbproject/
-private/
-build/
-.nb-gradle/
+/spec/
 composer.phar
 composer.lock
 .php_cs*

@@ -1,4 +1,4 @@
-# SalesChamp PHP assignment
+# PHP assignment
 
 This is the basic structure of the project, feel free to extend it in any way you like.
 
